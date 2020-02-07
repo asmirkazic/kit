@@ -257,6 +257,7 @@ footer {
 
 .a2:link {
   color: white;
+  padding: 1rem;
 }
 
 .a2:visited {
@@ -360,4 +361,8 @@ figure {
     top: 360px;
     left: 900px;
     z-index: 20;
+}
+
+.new-logo {
+  padding-left: 350px;
 }
